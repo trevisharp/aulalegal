@@ -12,3 +12,5 @@ https://fortawesome.com/sets/font-awesome-5-brands
 </head>
 
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+Gegeu muito forte! = https://imgur.com/a/ZpDs1Xm
