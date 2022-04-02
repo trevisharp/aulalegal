@@ -8,3 +8,5 @@ https://fortawesome.com/sets/font-awesome-5-brands
     <script src="https://kit.fontawesome.com/e327efa3e0.js" crossorigin="anonymous"></script>
     <title>Document</title>
 </head>
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
